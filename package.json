@@ -13,7 +13,7 @@
   "author": "Jean Osco",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcrypt": "^4.0.1",
     "concurrently": "^5.1.0",
     "connect-flash": "^0.1.1",
